@@ -1,3 +1,4 @@
+*%inc '/sas/m611/stat/sampsrc/xmacro.sas';
 %macro treedisc(data=,depvar=,ordinal=,nominal=,ordfloat=,
                  format=,freq=,order=,
                  merge=,split=,alpha=,afuzz=,bonf=,gabriel=,
